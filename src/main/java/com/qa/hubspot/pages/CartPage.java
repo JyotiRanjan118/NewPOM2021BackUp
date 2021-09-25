@@ -12,4 +12,8 @@ public class CartPage extends BasePage {
 		this.driver=driver;
 	}
 	
+	public void addToCart() {
+		System.out.println("Item is added to cart");
+	}
+	
 }
