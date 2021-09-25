@@ -16,4 +16,7 @@ public class CartPage extends BasePage {
 		System.out.println("Item is added to cart");
 	}
 	
+	public void payment() {
+		System.out.println("payment done");
+	}
 }
