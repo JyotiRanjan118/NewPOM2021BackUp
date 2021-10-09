@@ -8,6 +8,8 @@ public class Browsersupport {
 		System.out.println("firefox");
 		
 		System.out.println("IE");
+		
+		System.out.println("Safari");
 	}
 	
 }	
