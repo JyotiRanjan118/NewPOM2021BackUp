@@ -1,7 +1,0 @@
-package com.qa.hubspot.pages;
-
-public class OrderJR {
-	public void name() {
-		System.out.println("code--naveen");
-	}
-}
